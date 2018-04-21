@@ -24,7 +24,7 @@ share-mail:
 proposal: we needed a reflection of simplicity and elegance, legibility and an efficient user experience. and this was the outcome.
 industry: brand consultancy
 services: brand strategy and design consultancy, brand construction and the development of communication assets.
-web: https://onetaozen.github.io/ceptre/
+web: ceptre.github.io/brands/
 
 
 behance: https://www.behance.net/gallery/64720303/ceptre
