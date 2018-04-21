@@ -16,9 +16,9 @@ img-5: ceptre6.png
 
 type: featured
 
-share-instagram:
+share-pinterest:
 share-facebook: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2FCeptre-164734807497102%2F&amp;src=sdkpreparse
-share-twitter: https://twitter.com/share?url=&via=TBPMX&text=paruno
+share-twitter: https://twitter.com/share?hashtags=ceptre,branddesign&text=Brand Design for &via=_ceptre
 share-mail:
 
 proposal: we needed a reflection of simplicity and elegance, legibility and an efficient user experience. and this was the outcome.
@@ -27,7 +27,7 @@ services: brand strategy and design consultancy, brand construction and the deve
 web: https://onetaozen.github.io/ceptre/
 
 
-behance:
+behance: https://www.behance.net/gallery/64720303/ceptre
 ---
 
 
