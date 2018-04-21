@@ -1,0 +1,12 @@
+{% for work in site.pages %}
+  {% if work.type == 'featured' %}
+    <article class="postItem post-link" style="background-image: url('{{site.baseurl}}/img/projects/{{work.header-image}}');">
+      <a href="{{site.baseurl}}{{work.url}}">
+        <div class="postItem__info">
+          <h2 class="postItem__title">{{work.title}}</h2>
+          <p>{{work.sub-title}}</p>
+        </div>
+      </a>
+    </article>
+  {% endif %}
+{% endfor %}
