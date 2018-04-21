@@ -9,7 +9,7 @@ project-background: ceptre® is a brand strategy and design consultancy that spe
 
 background-image: ceptre1.png
 img-1: ceptre2.png
-img-2: ceptre3.png
+img-2: ceptre3.PNG
 img-3: ceptre4.png
 img-4: ceptre5.png
 img-5: ceptre6.png
