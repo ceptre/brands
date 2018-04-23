@@ -1,6 +1,8 @@
 ---
 layout: work
 
+meta: brand strategy, concept development, brand identity, messaging, stationary, packaging, art direction, web & digital design, seo, social media
+
 header-image: ceptre head.png
 
 title: ceptre
@@ -29,43 +31,3 @@ web: ceptre.github.io/brands/
 
 behance: https://www.behance.net/gallery/64720303/ceptre
 ---
-
-
-          {% comment %}
-
-          <p>
-              <img class="alignnone wp-image-1154 size-full"
-              style="font-size: 1rem;"
-              src="http://tbpmx.com/wp-content/uploads/2018/02/tbp_01.jpg"
-              alt="" width="1400" height="935"
-              srcset="http://tbpmx.com/wp-content/uploads/2018/02/tbp_01.jpg 1400w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_01-300x200.jpg 300w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_01-768x513.jpg 768w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_01-1024x684.jpg 1024w"
-              sizes="(max-width: 1400px) 100vw, 1400px">
-
-              <img class="alignnone wp-image-1150 size-full"
-              style="font-size: 1rem;"
-              src="http://tbpmx.com/wp-content/uploads/2018/02/tbp_05.jpg"
-              alt="" width="1400" height="846"
-              srcset="http://tbpmx.com/wp-content/uploads/2018/02/tbp_05.jpg 1400w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_05-300x181.jpg 300w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_05-768x464.jpg 768w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_05-1024x619.jpg 1024w"
-              sizes="(max-width: 1400px) 100vw, 1400px">
-
-              <img class="alignnone wp-image-1189 size-full"
-              src="http://tbpmx.com/wp-content/uploads/2018/02/tbp_08.jpg"
-              alt="" width="1400" height="857"
-              srcset="http://tbpmx.com/wp-content/uploads/2018/02/tbp_08.jpg 1400w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_08-300x184.jpg 300w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_08-768x470.jpg 768w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_08-1024x627.jpg 1024w"
-              sizes="(max-width: 1400px) 100vw, 1400px">
-
-              <img class="alignnone wp-image-1153 size-full"
-              style="font-size: 1rem;"
-              src="http://tbpmx.com/wp-content/uploads/2018/02/tbp_04.jpg"
-              alt="" width="1400" height="846"
-              srcset="http://tbpmx.com/wp-content/uploads/2018/02/tbp_04.jpg 1400w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_04-300x181.jpg 300w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_04-768x464.jpg 768w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_04-1024x619.jpg 1024w"
-              sizes="(max-width: 1400px) 100vw, 1400px">
-
-              <img class="alignnone wp-image-1152 size-full"
-              style="font-size: 1rem;"
-              src="http://tbpmx.com/wp-content/uploads/2018/02/tbp_03.jpg"
-              alt="" width="1400" height="935"
-              srcset="http://tbpmx.com/wp-content/uploads/2018/02/tbp_03.jpg 1400w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_03-300x200.jpg 300w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_03-768x513.jpg 768w, http://tbpmx.com/wp-content/uploads/2018/02/tbp_03-1024x684.jpg 1024w"
-              sizes="(max-width: 1400px) 100vw, 1400px"></p> -->
-
-          {% endcomment %}
