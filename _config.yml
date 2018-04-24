@@ -1,3 +1,4 @@
 markdown: kramdown
 baseurl: /brands
 exclude: ['README.md']
+permalink: pretty
