@@ -39,6 +39,14 @@ h2 a:hover {
     font-weight: 600;
     line-height: 1.3em;
 }
+.readmore {
+  transition: all .4s cubic-bezier(.73,-0.3,.07,1.39);
+}
+.readmore:hover {
+  opacity: .7;
+
+  font-size: .9em !important;
+}
 .postItem__info {
     background: #17191a;
     top: 0;
@@ -60,4 +68,7 @@ h2 a:hover {
 }
 .postItem__info:hover {
   opacity: .9 !important;
+}
+.postItem a.postItem__button:hover {
+  transition: all .4s cubic-bezier(.73,-0.3,.07,1.39);
 }
